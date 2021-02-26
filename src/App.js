@@ -19,7 +19,7 @@ const App = () => {
     return (
         <div>
             <h1>
-                Alan app
+                Alan application web
             </h1>
         </div>
     );
